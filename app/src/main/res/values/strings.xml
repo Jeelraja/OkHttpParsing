@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">OkHttpParsing</string>
+
+    <!--Parsing-->
+    <string name="str_something_went_worng">Server is not responding. Please try again after sometime.</string>
+    <string name="internetmsg">Please check your Internet Connection</string>
+    <string name="lbl_message">Message</string>
+    <string name="btn_str_ok">Ok</string>
+    <string name="downloading">Downloading...</string>
+    <string name="waiting">Please wait</string>
+    <string name="loading">Loading…</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="from_library">Choose from Library</string>
+    <string name="remove_image">Remove Image</string>
+    <string name="cancel_image">Cancel</string>
+    <string name="add_pic">Add Photo!</string>
+    <string name="image_not_loaded">Image is not Loaded</string>
+    <string name="invalid_image_file">Please select valid image file</string>
+    <string name="read_image_fail">Failed to read image</string>
+    <string name="allow">Allow</string>
+    <string name="permission_never_asked">Application has required some permissions to proceed. Enable them from setting.</string>
+    <!--Ref link-->
+    <!--http://www.zoftino.com/android-okhttp-example-->
+</resources>
